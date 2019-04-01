@@ -18,3 +18,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 ## Day 4 : zip_react_projects
 
 - It removed the node_modules and create a zip of the react project. Will be helpful to zip and mail it to someone. 
+
+## Day 5: append_read_me.py
+This script will read the last updated python file in the folder and automatically append it into the read.me with the day number
