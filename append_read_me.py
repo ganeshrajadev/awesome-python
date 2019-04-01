@@ -34,7 +34,7 @@ new_data="\n\n## Day "+str(today_number)+": "+last_updated_python_file_name+"\n"
 
 desc=input("Please Enter description for "+last_updated_python_file_name+"\n")
 
-new_data=new_data+desc.strip()
+new_data=new_data+"- "+desc.strip()
 
 with open('README.md',"a+") as file:
     file.write(new_data)
