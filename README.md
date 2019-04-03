@@ -25,3 +25,7 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 6: convert_pdf_to_csv.py
 - This scripts helps you to convert the given PDF into CSV file and stores it in local
+
+
+## Day 7: push_todays_script.py
+- This script will automatially track the updated files and commit those files and push it to the git.
