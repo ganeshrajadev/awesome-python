@@ -28,4 +28,7 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 
 ## Day 7: push_todays_script.py
-- This script will automatially track the updated files and commit those files and push it to the git.
+- This script will automatically track the updated files and commit those files and push them to the git.
+
+## Day 8: update_gnome_wallpaper.py
+- This script will randomly select an image file from a folder of files and update the wallpaper in ubuntu
