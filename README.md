@@ -35,3 +35,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 9: check_site_live.py
 - This script checks if a site is active or not in the given intervals. if it's down it sends a notification.
+
+## Day 10: dev_to_post_generate.py
+- This script uses a template and generates my 100 days python scripts posts for dev.to by checking the last updated file in Readme. This is helpful for me to quickly update dev.to post without manually copy pasting things again and again
