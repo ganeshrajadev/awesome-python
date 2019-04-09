@@ -32,3 +32,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 8: update_gnome_wallpaper.py
 - This script will randomly select an image file from a folder of files and update the wallpaper in ubuntu
+
+## Day 9: check_site_live.py
+- This script checks if a site is active or not in the given intervals. if it's down it sends a notification.
