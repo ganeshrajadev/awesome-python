@@ -26,7 +26,7 @@ if is_already_added:
     sys.exit(0)
 
 try:
-    today_number=int(last_date[7])+1
+    today_number=int(last_date.split(":")[0].split(" ")[-1])+1
 except:
     pass
 
