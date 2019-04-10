@@ -38,3 +38,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 10: dev_to_post_generate.py
 - This script uses a template and generates my 100 days python scripts posts for dev.to by checking the last updated file in Readme. This is helpful for me to quickly update dev.to post without manually copy pasting things again and again
+
+## Day 2: notify_user.py
+- An one line script that notifies user with the give title and message. Could be helpful to remind you daily tasks with the help of cron or schedule module from python
