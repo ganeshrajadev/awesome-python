@@ -41,3 +41,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 11: notify_user.py
 - A one-line script that notifies the user with the given title and message. Could be helpful to remind your daily tasks with the help of cron or schedule module from python
+
+## Day 12: resume_vlc.py
+- If you are annoyed by opening recently played videos again and again it's the script for you. You can schdule this script so whenever you open your system it will automatically resume that last player vlc video with the paused seconds.
