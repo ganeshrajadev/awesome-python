@@ -44,3 +44,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 12: resume_vlc.py
 - If you are annoyed by opening recently played videos again and again it's the script for you. You can schdule this script so whenever you open your system it will automatically resume that last player vlc video with the paused seconds.
+
+## Day 13: file_organizer.py
+- have you ever annoyed with a lot of unorganized files in your download folder? if yes, this extension will help you with automatically organize the files based on its type. Schedule it as a cron job, you never have to worry about organizing a folder manually.   feel free to add more types if you need.
