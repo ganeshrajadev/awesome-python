@@ -47,3 +47,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 13: file_organizer.py
 - have you ever annoyed with a lot of unorganized files in your download folder? if yes, this extension will help you with automatically organize the files based on its type. Schedule it as a cron job, you never have to worry about organizing a folder manually.   feel free to add more types if you need.
+
+## Day 14: list_large_files.py
+- This script will print the n number of biggest files in the specified dir and it's sub dir. It will be helpful when you want to free up some space in HD
