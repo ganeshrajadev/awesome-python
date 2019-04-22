@@ -50,3 +50,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 14: list_large_files.py
 - This script will print the n number of biggest files in the specified dir and it's sub dir. It will be helpful when you want to free up some space in HD
+
+## Day 15: notify_random_reddit.py
+- This script will randomly pick a sub_reddit from the list of your favs and randonly pick one of the top post and notify it. You can add it to cron and get random posts hourly.
