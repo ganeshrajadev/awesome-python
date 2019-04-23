@@ -53,3 +53,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 15: notify_random_reddit.py
 - This script will randomly pick a sub_reddit from the list of your favs and randonly pick one of the top post and notify it. You can add it to cron and get random posts hourly.
+
+## Day 16: exection_time_log_decorator.py
+- This is a decorator script in Python, When you use @log as a decorator for the function it can automatically log the function name and the execution time it took.
