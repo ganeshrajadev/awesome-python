@@ -59,3 +59,6 @@ The objective of the challenge is very simple. I will write 1 python script a da
 
 ## Day 17: single_click_save.py
 - Whenever I came across new framework or tech terms or articles, I have a habit of adding them into my learning Trello board. Later I can to look up and start learning if I find it useful. But it was harder for me to open trello and add it every time. So I wrote this script. Now I have to just copy the new term to clipboard and click on the script which is executable formate( or as a shortcut ), The term will be stored into Trello and a new notification pops up.
+
+## Day 18: generate_100_day_image.py
+- added script to Generate 100 days of code image
