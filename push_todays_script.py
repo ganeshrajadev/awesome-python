@@ -1,7 +1,7 @@
 import os,subprocess
-from constants import WORKING_DIR
+#from constants import WORKING_DIR
 
-os.chdir(WORKING_DIR)
+os.chdir("../automated-python-scripts")
 
 cmd = "git add ."
 subprocess.check_output(cmd, shell=True)  
