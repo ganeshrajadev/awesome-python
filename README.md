@@ -68,6 +68,9 @@ This repo is a compilation of Python scripts that automate some boring tasks. Fe
 Collaborators
   
   We thank the collaborators for their contribution. 
+
   [Ganesh Raja](https://github.com/ganeshrajadev)
+
   [Kshitij Sinha](https://github.com/sinarest1608)
+  
   [Kapil Pramod Deshmukh](https://github.com/KaProDes)
