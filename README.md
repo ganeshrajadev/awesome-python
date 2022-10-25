@@ -64,6 +64,9 @@ This repo is a compilation of Python scripts that automate some boring tasks. Fe
 
 - Whenever I came across new framework or tech terms or articles, I have a habit of adding them into my learning Trello board. Later I can to look up and start learning if I find it useful. But it was harder for me to open trello and add it every time. So I wrote this script. Now I have to just copy the new term to clipboard and click on the script which is executable formate( or as a shortcut ), The term will be stored into Trello and a new notification pops up.
 
+# Import CSV to Mongo Database
+
+- This file will let you bulk import CSV files to mongo-database. It will take the first line of csv as key for the mongo document.
 
 Collaborators
   
