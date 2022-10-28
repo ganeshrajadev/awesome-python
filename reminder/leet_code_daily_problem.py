@@ -5,7 +5,7 @@ import os
 
 LETT_CODE_URL = "https://leetcode.com/graphql/"
 
-LEET_CODE_USER_NAME='ganeshrajadev'
+LEET_CODE_USER_NAME='' # Add the leetcode username
 
 json_array={
   "query": "\n    query recentAcSubmissions($username: String!, $limit: Int!) {\n  recentAcSubmissionList(username: $username, limit: $limit) {\n    id\n    title\n    titleSlug\n    timestamp\n  }\n}\n    ",
