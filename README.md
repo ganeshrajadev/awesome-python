@@ -68,6 +68,10 @@ This repo is a compilation of Python scripts that automate some boring tasks. Fe
 
 - This file will let you bulk import CSV files to mongo-database. It will take the first line of csv as key for the mongo document.
 
+# Leet Code Daily Reminder
+
+- A script that checks your daily leetcode submission and sends a notification if you don't solve any problem that day. Can be useful for daily leet code reminder
+
 Collaborators
   
   We thank the collaborators for their contribution. 
