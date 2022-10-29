@@ -77,6 +77,11 @@ This repo is a compilation of Python scripts that automate some boring tasks. Fe
 - Were you annoyed by failed downloads due to browser or OS issue ever? Well, this script might save you from that. It efficiently downloads files from the internet to your desired location
 - Run `python downloader.py --help` for a detailed guide on usage
 
+# Google Query 
+
+- A simple command to search anything in your specified category like images, news, videos, etc.
+- Run `python google_query.py --help` for a detailed guide on usage
+
 Collaborators
   
   We thank the collaborators for their contribution. 
