@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 .vscode/settings.json
 test-data/
+
+#intellij IDEA
+.idea/

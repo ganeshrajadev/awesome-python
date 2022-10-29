@@ -72,6 +72,11 @@ This repo is a compilation of Python scripts that automate some boring tasks. Fe
 
 - A script that checks your daily leetcode submission and sends a notification if you don't solve any problem that day. Can be useful for daily leet code reminder
 
+# File Downloader 
+
+- Were you annoyed by failed downloads due to browser or OS issue ever? Well, this script might save you from that. It efficiently downloads files from the internet to your desired location
+- Run `python downloader.py --help` for a detailed guide on usage
+
 Collaborators
   
   We thank the collaborators for their contribution. 
@@ -81,3 +86,5 @@ Collaborators
   [Kshitij Sinha](https://github.com/sinarest1608)
   
   [Kapil Pramod Deshmukh](https://github.com/KaProDes)
+
+  [Rohit Babu Gaddeti](https://github.com/rohitbabugaddeti)
