@@ -81,10 +81,6 @@ Collaborators
   
   We thank the collaborators for their contribution. 
 
-  [Ganesh Raja](https://github.com/ganeshrajadev)
-
-  [Kshitij Sinha](https://github.com/sinarest1608)
-  
-  [Kapil Pramod Deshmukh](https://github.com/KaProDes)
-
-  [Rohit Babu Gaddeti](https://github.com/rohitbabugaddeti)
+  <a href="https://github.com/ganeshrajadev/awesome-python/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ganeshrajadev/awesome-python" />
+  </a>
