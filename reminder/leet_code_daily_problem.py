@@ -1,7 +1,7 @@
-from datetime import datetime
 import requests
 import json
 import os
+from datetime import datetime
 
 LETT_CODE_URL = "https://leetcode.com/graphql/"
 
@@ -26,7 +26,6 @@ for submission in  submissions['data']['recentAcSubmissionList']:
     dt_object = datetime.fromtimestamp(int(submission["timestamp"]))
     if dt_object.date() == datetime.today().date():
       isSolvedToday=True
-      break
-  
+      break 
 if not isSolvedToday:
   os.system('notify-send "Solve Leet Code Problem" "You have yet to solve any leet code problem Today"')  
